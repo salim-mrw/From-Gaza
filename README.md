@@ -6,7 +6,7 @@
 
 ## Description
 
-A readable website that reviews the crimes of the Israeli occupation against children, women and men amid the disingenuous silence of the international community and inhuman organizations
+A readable website that reviews the crimes of the Israeli occupation against children, women and men amid the disingenuous silence of the international community and inhuman organizations.
 
 
 ## Authers
